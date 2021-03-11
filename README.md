@@ -1,5 +1,5 @@
 # crc_tables
-CRC_Tables is the collection of CRC Lookup Tables to view them, by arrays.
+CRC_Tables is the collection of CRC Lookup Tables to view them, split them and insert them.
 
 Take a look at some CRC Lookup Tables for the different polynomials that i generated the table using lookup table calculation
 
